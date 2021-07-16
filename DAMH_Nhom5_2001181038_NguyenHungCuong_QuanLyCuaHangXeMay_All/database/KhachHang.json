@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "60710c4b1790fb27d833c8ba"
+  },
+  "MaKH": "KH01",
+  "TenKH": "Tran Ngoc Khai",
+  "Diachi": "62/2 binh khanh, phu khanh, thanh phu, ben tre",
+  "sdt": "364651210"
+},{
+  "_id": {
+    "$oid": "607118b5b4f1d700fa937586"
+  },
+  "MaKH": "KH02",
+  "TenKH": "Nguyen Thi Thuy Kieu",
+  "Diachi": "Binh Duong",
+  "sdt": "364651210"
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "606f40fa9bf9b6ec3be49170"
+  },
+  "TenDV": "Rua Xe",
+  "Gia": "15000",
+  "MaHG": "DV01"
+},{
+  "_id": {
+    "$oid": "606f4e5b198b30163dd1c32f"
+  },
+  "TenDV": "Thay nhot",
+  "Gia": "120000",
+  "MaHG": "DV02"
+},{
+  "_id": {
+    "$oid": "607144a189e49b7ef89ff2bc"
+  },
+  "MaHG": "DV03",
+  "TenDV": "Rua Xe Bot Tuyet",
+  "Gia": "15000"
+}]

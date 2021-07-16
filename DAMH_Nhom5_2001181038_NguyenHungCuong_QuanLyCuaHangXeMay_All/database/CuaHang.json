@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "6064af715b338e69386634ab"
+  },
+  "MaCH": "CH2",
+  "TenCH": "cua hang 2",
+  "DiaChi": {
+    "dc": "61, ap binh khanh, xa phu khanh, huyen thanh phu, tinh ben tre"
+  }
+},{
+  "_id": {
+    "$oid": "6064b1894ec16b26adc17fd5"
+  },
+  "MaCH": "CH3",
+  "TenCH": "cua hang 3",
+  "DiaChi": {
+    "dc": "Cau Giay,Ha Noi"
+  }
+},{
+  "_id": {
+    "$oid": "6064b1a24ec16b26adc17fd8"
+  },
+  "MaCH": "CH4",
+  "TenCH": "cua hang 4",
+  "DiaChi": {
+    "dc": "Quan 1, TPHCM"
+  }
+},{
+  "_id": {
+    "$oid": "6064b1b14ec16b26adc17fdb"
+  },
+  "MaCH": "CH5",
+  "TenCH": "cua hang cua KhaiVIp1059 va ae",
+  "DiaChi": {
+    "dc": "Quan Binh Tan, TPHCM"
+  }
+},{
+  "_id": {
+    "$oid": "6064b1f84ec16b26adc1801d"
+  },
+  "MaCH": "CH6",
+  "TenCH": "cua hang 6",
+  "DiaChi": {
+    "dc": "Quan 2, TPHCM"
+  }
+},{
+  "_id": {
+    "$oid": "6064b2104ec16b26adc18024"
+  },
+  "MaCH": "CH8",
+  "TenCH": "cua hang 8",
+  "DiaChi": {
+    "dc": "Quan 4, TPHCM"
+  }
+},{
+  "_id": {
+    "$oid": "6064b21c4ec16b26adc18027"
+  },
+  "MaCH": "CH9",
+  "TenCH": "cua hang 9",
+  "DiaChi": {
+    "dc": "Quan 5, TPHCM"
+  }
+},{
+  "_id": {
+    "$oid": "6064b22d4ec16b26adc1802a"
+  },
+  "MaCH": "CH10",
+  "TenCH": "cua hang 10",
+  "DiaChi": {
+    "dc": "Quan 10, TPHCM"
+  }
+},{
+  "_id": {
+    "$oid": "6065f9037f226c605fa69ba2"
+  },
+  "MaCH": "CH15",
+  "TenCH": "cua hang 15",
+  "DiaChi": {
+    "dc": "Quan 5, TPHCM"
+  }
+},{
+  "_id": {
+    "$oid": "6067ef6046894a6279f9a66e"
+  },
+  "MaCH": "CH10",
+  "TenCH": "cua hang 10",
+  "DiaChi": {
+    "dc": "Quan 10, TPHCM"
+  }
+},{
+  "_id": {
+    "$oid": "6067ef7a46894a6279f9a671"
+  },
+  "MaCH": "CH11",
+  "TenCH": "cua hang 11",
+  "DiaChi": {
+    "dc": "Quan 3, TPHCM"
+  }
+}]

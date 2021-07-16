@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "606ca50f76b8a3dd76c3588f"
+  },
+  "MaHG": "HG01",
+  "TenHG": "Wave110",
+  "Mota": "Xe may pho thong tam thap",
+  "Hinh": "wave110.jpg",
+  "SoLuong": "10",
+  "Gia": "20000000"
+},{
+  "_id": {
+    "$oid": "606dc711c5471b7f49412fe7"
+  },
+  "MaHG": "HG02",
+  "TenHG": "WinnerX",
+  "Mota": "Xe may pho thong tam thap",
+  "Hinh": "winnerx.jpg",
+  "SoLuong": "10",
+  "Gia": "40000000"
+},{
+  "_id": {
+    "$oid": "606dc72ec5471b7f49412fed"
+  },
+  "MaHG": "HG04",
+  "TenHG": "Blade110",
+  "Mota": "Xe may pho thong tam thap",
+  "Hinh": "blade110.jpg",
+  "SoLuong": "10",
+  "Gia": "20000000"
+},{
+  "_id": {
+    "$oid": "606dc74bc5471b7f49412ff1"
+  },
+  "MaHG": "HG03",
+  "TenHG": "sonic150r",
+  "Mota": "Xe may pho thong tam thap",
+  "Hinh": "sonic.jpg",
+  "SoLuong": "10",
+  "Gia": "50000000"
+}]

@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "6065eae5cfb3029ab03e313d"
+  },
+  "MaNV": "NV01",
+  "MaCH": "CH01",
+  "ThongTin": {
+    "TaiKhoan": "VTBank",
+    "MatKhau": "2408",
+    "TenNV": "Dang Thi Truc Chi",
+    "DiachiNV": "Dai Dien, Thanh Phu, Ben Tre",
+    "GioiTinh": "Nu",
+    "ChucVu": "Ke Toan",
+    "Luong": "10000000",
+    "DiaChiNV": "Dai Dien, Thanh Phu, Ben Tre",
+    "TaiKhaoan": "VTBank"
+  }
+},{
+  "_id": {
+    "$oid": "6067ec90bd50c64e8b433ea1"
+  },
+  "MaNV": "NV02",
+  "MaCH": "CH01",
+  "ThongTin": {
+    "TenNV": "Tran Ngoc Khai",
+    "DiachiNV": "Phu Khanh, Thanh Phu, Ben Tre",
+    "GioiTinh": "Nam",
+    "ChucVu": "Boss",
+    "Luong": "5000000",
+    "TaiKhoan": "VTBank",
+    "MatKhau": "1210",
+    "DiaChiNV": "Phu Khanh, Thanh Phu, Ben Tre",
+    "TaiKhaoan": "VTBank"
+  }
+},{
+  "_id": {
+    "$oid": "60681c4924512e6ce35d1970"
+  },
+  "MaNV": "NV03",
+  "MaCH": "CH02",
+  "ThongTin": {
+    "TaiKhoan": "VTBank",
+    "MatKhau": "1234",
+    "TenNV": "Le Cong Thanh",
+    "DiachiNV": "Phu Khanh, Thanh Phu, Ben Tre",
+    "GioiTinh": "Nam",
+    "ChucVu": "Boss",
+    "Luong": "5000000",
+    "DiaChiNV": "Phu Khanh, Thanh Phu, Ben Tre",
+    "TaiKhaoan": "VTBank"
+  }
+},{
+  "_id": {
+    "$oid": "6075157803665d32e7442a24"
+  },
+  "MaNV": "NV04",
+  "MaCH": "CH01",
+  "ThongTin": {
+    "TaiKhoan": "VTBank",
+    "MatKhau": "2408",
+    "TenNV": "Dang Thi Truc A",
+    "DiachiNV": "Dai Dien, Thanh Phu, Ben Tre",
+    "GioiTinh": "Nu",
+    "ChucVu": "Ke Toan",
+    "Luong": "10000000"
+  }
+}]
